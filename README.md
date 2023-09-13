@@ -1,15 +1,15 @@
 ## Blogly - A Blog Reading and Engagement Platform
 
-Welcome to the `Blogly` Github Repository! Blogly is an open-source project that provides a platform for reading , upvoting , and commenting on blogs. Whether you want to contribute to the development of BLoglyy or set up your own blog reading website,you're in right place.
+Welcome to the `Blogly` Github Repository! Blogly is an open-source project that provides a platform for reading , upvoting , and commenting on blogs. Whether you want to contribute to the development of Blogly or set up your own blog reading website, you're in right place.
 
 ### About Blogly
 
 Blogly is designed to create a community-driven environment where users can enjoy reading blogs on a variety of topics and engage with the content through votes and comments. It's build using modern technology `(React , Firebase , Express , Axios , MongoDB , FirebaseCLI for hosting) ` and follows best practices for scalbaility and maintainability.
 
 ### Key Features
-  - Read Blogs: Explore a wide range of blogs spanning different categories.
-  - Upvote: Show appreciation for well-written content by upvoting blogs and sharing them with others.
-  - Engage with Comments: Join duscussions by leaving comments on blogs and interacting with other users.
+  - `Read Blogs`: Explore a wide range of blogs spanning different categories.
+  - `Upvote`: Show appreciation for well-written content by upvoting blogs and sharing them with others.
+  - `Engage with Comments`: Join duscussions by leaving comments on blogs and interacting with other users.
 
 
 
