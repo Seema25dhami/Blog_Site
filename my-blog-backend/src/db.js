@@ -2,7 +2,7 @@
 import { MongoClient } from 'mongodb';
 let db;
 async function connectToDb(cb){
-    const client = new MongoClient(`mongodb+srv://node-server:9o8GroZu6zWHrQnA@cluster0.tqko0nh.mongodb.net/?retryWrites=true&w=majority`);
+    const client = new MongoClient(`mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.tqko0nh.mongodb.net/?retryWrites=true&w=majority`);
     await client.connect();
 
 
