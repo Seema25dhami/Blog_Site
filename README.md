@@ -4,7 +4,7 @@ Welcome to the `Blogly` Github Repository! Blogly is an open-source project that
 
 ### About Blogly
 
-Blogly is designed to create a community-driven environment where users can enjoy reading blogs on a variety of topics and engage with the content through votes and comments. It's build using modern technology(React , Firebase , Express , Axios , MongoDB , FirebaseCLI for hosting) and follows best practices for scalbaility and maintainability.
+Blogly is designed to create a community-driven environment where users can enjoy reading blogs on a variety of topics and engage with the content through votes and comments. It's build using modern technology `(React , Firebase , Express , Axios , MongoDB , FirebaseCLI for hosting) ` and follows best practices for scalbaility and maintainability.
 
 ### Key Features
   - Read Blogs: Explore a wide range of blogs spanning different categories.
